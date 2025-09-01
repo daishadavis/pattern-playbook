@@ -65,7 +65,7 @@ pattern-playbook/
 ## 📝 Problem Note Format
 Each problem note uses the following template:
 
-
+```
 # Problem: [Problem Name]
 
 **Pattern / Category:**  
@@ -84,7 +84,7 @@ Each problem note uses the following template:
 **Similar Problems:**  
 
 **Personal Notes:**  
-
+```
 
 
 
