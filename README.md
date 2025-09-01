@@ -65,7 +65,7 @@ pattern-playbook/
 ## 📝 Problem Note Format
 Each problem note uses the following template:
 
-```markdown
+
 # Problem: [Problem Name]
 
 **Pattern / Category:**  
@@ -73,7 +73,7 @@ Each problem note uses the following template:
 **Why This Pattern?**  
 
 **Mini-Template (Core Logic):**
-```[pseudocode]
+[pseudocode]
 
 **Edge Cases:**  
 
