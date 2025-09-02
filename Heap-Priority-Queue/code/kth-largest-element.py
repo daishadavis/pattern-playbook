@@ -3,7 +3,7 @@ from typing import List
 
 
 class KthLargest:
-
+    """Class that returns the kth largest element in a heap"""
     def __init__(self, k: int, nums: List[int]):
         self.k = k
         self.minHeap = nums
