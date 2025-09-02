@@ -6,7 +6,7 @@
 - We want to keep track of the top k elements at all times.
 - A min-heap of size k makes this efficient:
     - insert a new number -> O(log k)
-    - Remove the smallesthen size > k -> O(log k)
+    - Remove the smallest when size > k -> O(log k)
 - Root of our heap = kth largest -> O(1)
 
 **Mini-Template (Core logic):
