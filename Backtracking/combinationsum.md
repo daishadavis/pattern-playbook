@@ -1,6 +1,6 @@
-# Problem: Subsets
+# Problem: Combination Sum
 
-**Pattern / Category: Backtracking**
+**Pattern / Category: Max-Heap/ Priority Queue**
 
 **Why this Pattern?:**
 - 
