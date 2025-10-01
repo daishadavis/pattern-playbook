@@ -12,7 +12,7 @@ def move_zeros(nums: List[int]) -> None:
     for i in range(last_non_zero, len(nums)):
         nums[i] = 0
 
-nums = [0, 1, 0, 3, 12]
+nums = [1, 0, 0, 3, 12]
 move_zeros(nums)
 print(nums)
 

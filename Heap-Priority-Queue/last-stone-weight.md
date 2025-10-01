@@ -2,7 +2,7 @@
 
 **Pattern / Category: Max-Heap/ Priority Queue**
 
-**Why this Pattern?:**
+**Notes:**
 - Every turn we must find the two heaviest stones
 
 **Mini-Template (Core logic):

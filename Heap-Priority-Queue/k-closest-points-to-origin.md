@@ -2,7 +2,7 @@
 
 **Pattern / Category: Mix-Heap/ Priority Queue**
 
-**Why this Pattern?:**
+**Notes:**
 - Need to keep track of the points closest to the origin (smallest distance)
 
 **Mini-Template (Core logic):

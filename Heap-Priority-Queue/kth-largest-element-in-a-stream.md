@@ -2,7 +2,7 @@
 
 **Pattern / Category: Min-Heap/ Priority Queue**
 
-**Why this Pattern?:**
+**Notes:**
 - We want to keep track of the top k elements at all times.
 - A min-heap of size k makes this efficient:
     - insert a new number -> O(log k)

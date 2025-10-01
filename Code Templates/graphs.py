@@ -1,4 +1,5 @@
 def dfs_recursive(graph):
+    """DFS recursion a adjancey list"""
     def dfs(node):
         ans = 0
         # do some logic
@@ -11,3 +12,7 @@ def dfs_recursive(graph):
     
     seen = {START_NODE}
     return dfs(START_NODE)
+
+
+def dfs_interactive(graph):
+    
