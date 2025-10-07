@@ -11,3 +11,7 @@
 - Assume you already know the answer r a smaller version of the input. Then see if you can se that information to solve the problem for a larger input.
 - If the input is an array, assume you have the answer  the first few elements in the array. If the input is a string, assume you have the answer for the first few characters.
 if the input is a number, assume, you have an answer for a smaller number etc.
+
+
+# Recurrence Relation:
+- 
